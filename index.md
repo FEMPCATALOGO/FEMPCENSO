@@ -10,7 +10,7 @@ classes: wide
 <div id="bodyid">
 <link href="stylesheet.css" rel="stylesheet"/>
 
-<h1> VOCABULARIO CENSO DE LOCALES </h1>
+<h1> VOCABULARIO CENSO DE LOCALES Y LICENCIAS DE APERTURA </h1>
 </div>
   
 ---
